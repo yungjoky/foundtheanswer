@@ -1,0 +1,10 @@
+.squares-canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: auto;
+  background: transparent;
+}
